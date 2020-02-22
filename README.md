@@ -1,4 +1,5 @@
-# social-isolation-preparation
+# self-isolation-preparation
+
 Preparation recommendations for Social Isolation in preparation for CoViD19 Pandemic
 
 The following are notes composed quickly to suggest to some friends and family.  Thought it might be useful to share.
