@@ -34,12 +34,12 @@ Disposable masks are not meant to be re-used.
 Plan for having enough for what, ... maybe six weeks, or three months even?  Not a bit of this isn't something you can use later if this ends up being a nothingburger.
 
 - Hand Sanitizer (70% Alcohol).  Do not share bottle, each person should have their own.  This will be hard to find at stores at some point.
-- Hand soap.
+- Hand soap and body wash
 - Hand towels (again, do not share. each person should have their own, plus spares while others being laundered.)
 - Garbage bags
 - Paper towels
 - Disinfecting wipes (you might find these very useful)
-- Disinfectant: Certain chemical concoctions such as hydrogen peroxide at the proper dilution are [effective at quickly killing the virus on surfaces](https://www.sciencedirect.com/science/article/pii/S2590088920300081).  Bleach (sodium hypochlorite) at the proper dilution can work as well.
+- Disinfectant: Certain chemical concoctions such as hydrogen peroxide at the proper dilution are [effective at quickly killing the virus on surfaces](https://www.sciencedirect.com/science/article/pii/S2590088920300081).  Bleach (sodium hypochlorite) at the proper dilution can work as well.  Lysol spray too.
 - Toilet tissue (In parts of Asia, this was a desparately needed commodity that the markets ran out of first)
 - Bottled water (your discretion).  Maybe some 5 gallon jugs as well.
 - Canned and frozen food.  Perhaps plan for 10 weeks before your next visit to the market, which may or may not have supplies.
@@ -66,7 +66,10 @@ Plan for having enough for what, ... maybe six weeks, or three months even?  Not
 
 **Tips**
 
+- Wash your hands often.  Using hand sanitizer even after washing might help.
+- If you can find the travel-size Lysol spray, that might be useful if you are out (e.g., to spray on shopping cart handles).
 - [Disinfect your mobile phone](https://www.mdedge.com/infectiousdisease/article/111734/healthcare-acquired-infections/viruses-mobile-phones), perhaps as frequently as washing your hands. ([paywall free](https://outline.com/fhnUUJ))
+
 
 **Additional resources**
 
