@@ -74,4 +74,4 @@ I am not a medical professional.  This is simply the observations of an individu
 
 Last updated, 22 Feb 2020
 
-The author of this also posts on Twitter at: [@CoViD19SARSCoV2](https://twitter.com/CoViD19SARSCoV2)
+The author of this document also contributes content at: [@CoViD19SARSCoV2](https://twitter.com/CoViD19SARSCoV2)
