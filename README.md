@@ -46,7 +46,7 @@ Plan for having enough for what, ... maybe six weeks, or three months even?  Not
 
 **Medical**
 
-- Oximeter (fingertip pulse oximeter, blood oxygen saturation monitor). You might want this to help detect changes if you are not feeling well, or are feeling fine but suspect you might have been exposed.
+- Oximeter (fingertip pulse oximeter, blood oxygen saturation monitor). You might want this to monitor your "5th vital sign" and [here's how and why](https://youtube.com/watch?v=YyMiSUfZtyU).
 - Thermometer (oral). One per person, don't share.
 - Prescriptions for the next couple months.  If you get those now, you might save a trip to the doctor or pharmacist (which is where many infected people will be). 
 - Vitamin tables (especially Vitamin D if not going outside)
