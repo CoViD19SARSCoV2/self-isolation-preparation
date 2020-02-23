@@ -77,9 +77,10 @@ n OTC medicines (e.g., pain releivers, cough suppressant/couph drops). There may
 - [Pandemic] page on U.S. Dept. of Homeland Security's Ready.gov wesite
 - [Comprehensive Prep List](https://flutrackers.com/forum/forum/personal-family-professional-emergency-preparedness/13815-comprehensive-prep-list-for-one-adult-30-days)
 
+
 **Disclaimer**
 
-I am not a medical professional.  This is simply the observations of an individual with the intent to help.  Create a [github](https://github.com/CoViD19SARSCoV2/self-isolation-preparation) Issue or submit a Pull Request with anything that may help to improve this document.  Suggestions can be made [via e-mail](mailto:CoViD19SARSCoV2@gmail.com) as well.
+I am not a medical professional.  This is simply the observations of an individual with the intent to help. Some content was obtained from various sources, including [@VirusWhisperer's Tweets](https://twitter.com/VirusWhisperer/status/1231317513067208704).  Create a [github](https://github.com/CoViD19SARSCoV2/self-isolation-preparation) Issue or submit a Pull Request with anything that may help to improve this document.  Suggestions can be made [via e-mail](mailto:CoViD19SARSCoV2@gmail.com) as well.
 
 Last updated, 22 Feb 2020
 
