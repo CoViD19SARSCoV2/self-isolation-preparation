@@ -7,7 +7,7 @@ The following are notes composed quickly to provide a recommendation to some fri
 Social distancing will help to protect yourself from the spread of the SARS-COV-2 (virus) and from getting COVID-19 (disease).  This may be easier said than done, but preparing well will lessen the risk of exposure (or amount of exposure) from having to leave your home to get supplies or for whater reason.
 
 **Masks, Goggles and Gloves**
-These are out of stock nearly everywhere, globally, since late January. 
+These are out of stock nearly everywhere, globally, since late January. But it is possible your local hardware store could still have some.
 
 While the CDC does not yet recommend the general public have [personal protective equipment](https://www.cdc.gov/oralhealth/infectioncontrol/faqs/personal-protective-equipment.html) (PPE), it's up to you. Do note this [warning from the FDA](https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/masks-and-n95-respirators#s4):
 
