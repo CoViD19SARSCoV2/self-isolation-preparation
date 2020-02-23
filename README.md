@@ -1,4 +1,4 @@
-# Prerparations for Social Distancing / Isolation.
+# Preparations for Social Distancing / Isolation.
 
 Preparation recommendations for Social Distancing / Isolation in preparation for CoViD19 Pandemic
 
