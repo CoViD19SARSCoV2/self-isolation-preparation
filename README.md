@@ -50,6 +50,7 @@ Plan for having enough for what, ... maybe six weeks, or three months even?  Not
 - Thermometer (oral). One per person, don't share.
 - Prescriptions for the next couple months.  If you get those now, you might save a trip to the doctor or pharmacist (which is where many infected people will be).
 - Vitamin tables (especially Vitamin D if not going outside)
+n OTC medicines (e.g., pain releivers, cough suppressant/couph drops). There may be [negative effects though from taking medication that reduces a fever](https://www.youtube.com/watch?v=wBHyBrbU6EI) when your body is trying to fight an infection.
 
 **Household and Other**
 
