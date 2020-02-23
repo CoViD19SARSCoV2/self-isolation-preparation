@@ -13,7 +13,7 @@ While the CDC does not yet recommend the general public have [personal protectiv
 
 *People with chronic respiratory, cardiac, or other medical conditions that make breathing difficult should check with their healthcare provider before using an N95 respirator because the N95 respirator can make it more difficult for the wearer to breathe.*
 
-There are numerous brands and models of [Filtering Facepiece Respirators](https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/n95list1.html) (FFRs).  For reference:
+There are numerous brands and models of [Filtering Facepiece Respirators](https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/n95list1.html) (FFRs).  The FFR specifications will vary based on the performance characteristics for the [country's rating method](https://multimedia.3m.com/mws/media/1791500O/comparison-ffp2-kn95-n95-filtering-facepiece-respirator-classes-tb.pdf).  U.S., and European rating levels include:
 
 - P2 FFP protection: U.S.: NIOSH N95 / R95 / P95, or European: FFP2 (which is slightly less protection than N95)
 - P3 FFP protection: U.S.: NIOSH N99, or N100, or European: FFP3 (which is slightly less protection than N100)
@@ -25,9 +25,9 @@ There is quite a [variety of PPE](https://www.cdc.gov/niosh/npptl/RespiratorInfo
 
 Eye protection: Since the virus can, allegedly, enter through mucus tissue), Fluid Barrier Goggles (also known as Chemical Splash Safety Goggles) might be important as well.
 
-Plastic gloves: Yes.  [TODO: Add example, ... disposable, latex-free, protective gloves.]
+Plastic gloves: Yes.  [TODO: Add example, ... disposable, latex-free, protective gloves.  Also referred to as nitrile exam gloves.]
 
-Disposable masks are not meant to be re-used.
+Disposable masks are not meant to be re-used. There aren't enough masks for everyone to use and dispose of, so sanitizing the resporator masks (e.g., heat to 150 degrees farhenheit (66 degrees celcius) has been a method to cope by those in the affected areas.  [TODO: The masks with a plastic exhilation valve will melt or otherwise render the mask ineffective at some temperature. Not sure if they can be disinfected with heat yet remain usable.]
 
 **Supplies**
 
@@ -41,7 +41,7 @@ Plan for having enough for what, ... maybe six weeks, or three months even?  Not
 - Disinfecting wipes (you might find these very useful)
 - Disinfectant: Certain chemical concoctions such as hydrogen peroxide at the proper dilution are [effective at quickly killing the virus on surfaces](https://www.sciencedirect.com/science/article/pii/S2590088920300081).  Bleach (sodium hypochlorite) at the proper dilution can work as well.  Lysol spray too.
 - Toilet tissue (In parts of Asia, this was a desparately needed commodity that the markets ran out of first)
-- Bottled water (your discretion).  Maybe some 5 gallon jugs as well, though individual sized bottle watter lessens contamination from multiple openings / closings of caps. 
+- Bottled water (your discretion).  Maybe some 5 gallon jugs as well, though individual sized bottle watter lessens contamination from multiple openings / closings of caps.
 - Canned and frozen food, including possibly the box milk that doesn't need refrigeration before opening.  Also dried fruits and nuts. Perhaps plan for several weeks before your next visit to the market, which may or may not have supplies.
 
 **Medical**
@@ -76,7 +76,6 @@ n OTC medicines (e.g., pain releivers, cough suppressant/couph drops). There may
 
 - [Pandemic] page on U.S. Dept. of Homeland Security's Ready.gov wesite
 - [Comprehensive Prep List](https://flutrackers.com/forum/forum/personal-family-professional-emergency-preparedness/13815-comprehensive-prep-list-for-one-adult-30-days)
-
 
 **Disclaimer**
 
