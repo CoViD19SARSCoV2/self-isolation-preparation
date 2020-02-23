@@ -33,16 +33,16 @@ Disposable masks are not meant to be re-used.
 
 Plan for having enough for what, ... maybe six weeks, or three months even?  Not a bit of this isn't something you can use later if this ends up being a nothingburger.
 
-- Hand Sanitizer (70% Alcohol).  Do not share bottle, each person should have their own.  This will be hard to find at stores at some point.
+- Hand Sanitizer (70% Alcohol).  Do not share your bottle, each person should have their own. A large refill can be used to re-fill the travel-sized bottles. These all will be hard to find at stores at some point.
 - Hand soap and body wash
 - Hand towels (again, do not share. each person should have their own, plus spares while others being laundered.)
 - Garbage bags
-- Paper towels
+- Paper towels (as there will be lots of surfaces needing wiping)
 - Disinfecting wipes (you might find these very useful)
 - Disinfectant: Certain chemical concoctions such as hydrogen peroxide at the proper dilution are [effective at quickly killing the virus on surfaces](https://www.sciencedirect.com/science/article/pii/S2590088920300081).  Bleach (sodium hypochlorite) at the proper dilution can work as well.  Lysol spray too.
 - Toilet tissue (In parts of Asia, this was a desparately needed commodity that the markets ran out of first)
-- Bottled water (your discretion).  Maybe some 5 gallon jugs as well.
-- Canned and frozen food.  Perhaps plan for 10 weeks before your next visit to the market, which may or may not have supplies.
+- Bottled water (your discretion).  Maybe some 5 gallon jugs as well, though individual sized bottle watter lessens contamination from multiple openings / closings of caps. 
+- Canned and frozen food, including possibly the box milk that doesn't need refrigeration before opening.  Also dried fruits and nuts. Perhaps plan for several weeks before your next visit to the market, which may or may not have supplies.
 
 **Medical**
 
@@ -50,7 +50,7 @@ Plan for having enough for what, ... maybe six weeks, or three months even?  Not
 - Thermometer (oral). One per person, don't share.
 - Prescriptions for the next couple months.  If you get those now, you might save a trip to the doctor or pharmacist (which is where many infected people will be).
 - Vitamin tables (especially Vitamin D if not going outside)
-n OTC medicines (e.g., pain releivers, cough suppressant/couph drops). There may be [negative effects though from taking medication that reduces a fever](https://www.youtube.com/watch?v=wBHyBrbU6EI) when your body is trying to fight an infection.
+n OTC medicines (e.g., pain releivers, cough suppressant/couph drops). There may be [negative effects though from taking medication that reduces a fever](https://www.youtube.com/watch?v=wBHyBrbU6EI) when your body is trying to fight an infection.  Same with cough drops ... they are not for suppressing symptoms that need medical attention.
 
 **Household and Other**
 
