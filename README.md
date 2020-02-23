@@ -13,10 +13,10 @@ While the CDC does not yet recommend the general public have [personal protectiv
 
 *People with chronic respiratory, cardiac, or other medical conditions that make breathing difficult should check with their healthcare provider before using an N95 respirator because the N95 respirator can make it more difficult for the wearer to breathe.*
 
-There are numerous brands and models of [Filtering Facepiece Respirators](https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/n95list1.html) (FFRs).  For reference: 
+There are numerous brands and models of [Filtering Facepiece Respirators](https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/n95list1.html) (FFRs).  For reference:
 
-- P2 FFP protection: U.S.: NIOSH N95 / R95 / P95, or European: FFP2 (which is slightly less protection than N95)  
-- P3 FFP protection: U.S.: NIOSH N99, or N100, or European: FFP3 (which is slightly less protection than N100) 
+- P2 FFP protection: U.S.: NIOSH N95 / R95 / P95, or European: FFP2 (which is slightly less protection than N95)
+- P3 FFP protection: U.S.: NIOSH N99, or N100, or European: FFP3 (which is slightly less protection than N100)
 - Surgical mask: [Different from FFP](https://www.cdc.gov/niosh/npptl/pdfs/UnderstandDifferenceInfographic-508.pdf), a surgical mask does NOT provide the wearer with a reliable level of protection from inhaling smaller airborne particles and is not considered respiratory protection. A surgical mask will lessen the risk of you spreading the virus to others, if you are infected.
 
 An exhalation valve will let you breathe easier and keep your mask from getting wet sooner.
@@ -48,7 +48,7 @@ Plan for having enough for what, ... maybe six weeks, or three months even?  Not
 
 - Oximeter (fingertip pulse oximeter, blood oxygen saturation monitor). You might want this to monitor your "5th vital sign" and [here's how and why](https://youtube.com/watch?v=YyMiSUfZtyU).
 - Thermometer (oral). One per person, don't share.
-- Prescriptions for the next couple months.  If you get those now, you might save a trip to the doctor or pharmacist (which is where many infected people will be). 
+- Prescriptions for the next couple months.  If you get those now, you might save a trip to the doctor or pharmacist (which is where many infected people will be).
 - Vitamin tables (especially Vitamin D if not going outside)
 
 **Household and Other**
