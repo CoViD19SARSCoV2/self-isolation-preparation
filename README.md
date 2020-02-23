@@ -39,7 +39,7 @@ Plan for having enough for what, ... maybe six weeks, or three months even?  Not
 - Garbage bags
 - Paper towels
 - Disinfecting wipes (you might find these very useful)
-- Bleach (chlorine, properly diluted, is a good disinfectant)
+- Disinfectant: Certain chemical concoctions such as hydrogen peroxide at the proper dilution are [effective at quickly killing the virus on surfaces](https://www.sciencedirect.com/science/article/pii/S2590088920300081).  Bleach (sodium hypochlorite) at the proper dilution can work as well.
 - Toilet tissue (In parts of Asia, this was a desparately needed commodity that the markets ran out of first)
 - Bottled water (your discretion).  Maybe some 5 gallon jugs as well.
 - Canned and frozen food.  Perhaps plan for 10 weeks before your next visit to the market, which may or may not have supplies.
