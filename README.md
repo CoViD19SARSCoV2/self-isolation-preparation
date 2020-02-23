@@ -64,6 +64,9 @@ Plan for having enough for what, ... maybe six weeks, or three months even?  Not
 - Go bag: You may head to the hospital and end up in quarantine for weeks.  Have a bag with clothes, toiletries, other items ready to go with you.
 - ID renewal: If your ID, subscriptions, etc. expire in the next months, might as well get that renewed early.
 
+**Tips**
+
+- [Disinfect your mobile phone](https://www.mdedge.com/infectiousdisease/article/111734/healthcare-acquired-infections/viruses-mobile-phones), perhaps as frequently as washing your hands. ([paywall free](https://outline.com/fhnUUJ))
 
 I am not a medical professional.  This is simply the observations of an individual with the intent to help.  Create a github Isse or submit a Pull Request with anything that may help to improve this document.  Suggestions can be made [via e-mail](mailto:CoViD19SARSCoV2@gmail.com) as well.
 
