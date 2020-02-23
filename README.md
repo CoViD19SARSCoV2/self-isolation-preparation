@@ -1,10 +1,10 @@
-# self-isolation-preparation
+# Prerparations for Social Distancing / Isolation.
 
 Preparation recommendations for Social Distancing / Isolation in preparation for CoViD19 Pandemic
 
 The following are notes composed quickly to suggest to some friends and family.  Thought it might be useful to share.
 
-Social isolation will help to protect yourself from the spread of the SARS-COV-2 (virus) and from getting COVID-19 (disease).  This may be easier said than done, but preparing well will lessen the exposure by having to leave your home to get supplies or for whater reason.
+[Social distancing](https://en.wikipedia.org/wiki/Social_distancing) will help to protect yourself from the spread of the SARS-COV-2 (virus) and from getting COVID-19 (disease).  This may be easier said than done, but preparing well will lessen the exposure by having to leave your home to get supplies or for whater reason.
 
 **Masks, Goggles and Gloves**
 These are out of stock nearly everywhere, globally, since late January. 
