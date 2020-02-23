@@ -68,6 +68,8 @@ Plan for having enough for what, ... maybe six weeks, or three months even?  Not
 
 - [Disinfect your mobile phone](https://www.mdedge.com/infectiousdisease/article/111734/healthcare-acquired-infections/viruses-mobile-phones), perhaps as frequently as washing your hands. ([paywall free](https://outline.com/fhnUUJ))
 
+**Disclaimer**
+
 I am not a medical professional.  This is simply the observations of an individual with the intent to help.  Create a github Isse or submit a Pull Request with anything that may help to improve this document.  Suggestions can be made [via e-mail](mailto:CoViD19SARSCoV2@gmail.com) as well.
 
 Last updated, 22 Feb 2020
