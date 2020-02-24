@@ -84,6 +84,6 @@ n OTC medicines (e.g., pain releivers, cough suppressant/couph drops). There may
 
 I am not a medical professional.  This is simply the observations of an individual with the intent to help. Some content was obtained from various sources, including [@VirusWhisperer's Tweets](https://twitter.com/VirusWhisperer/status/1231317513067208704).  Create a [github](https://github.com/CoViD19SARSCoV2/self-isolation-preparation) Issue or submit a Pull Request with anything that may help to improve this document.  Suggestions can be made [via e-mail](mailto:CoViD19SARSCoV2@gmail.com) as well.
 
-Last updated, 22 Feb 2020
+Last updated, 23 Feb 2020
 
 The author of this document also contributes content at: [@CoViD19SARSCoV2](https://twitter.com/CoViD19SARSCoV2)
