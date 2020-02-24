@@ -83,6 +83,8 @@ n OTC medicines (e.g., pain releivers, cough suppressant/couph drops). There may
 - [What to buy to protect yourself against the coronavirus](https://theprepared.com/wuhan-coronavirus/#protect), and [Shelter-in-place medical supplies for Wuhan coronavirus](https://theprepared.com/kits/ea5e24ab)
 - [Comprehensive Prep List](https://flutrackers.com/forum/forum/personal-family-professional-emergency-preparedness/13815-comprehensive-prep-list-for-one-adult-30-days)
 - [Pandemic Flu Home Care: A Detailed Guide for Caring for the Ill at Home](https://www.amazon.com/Pandemic-Flu-Home-Care-Illustrated/dp/149041715X)
+- [3 COVID-19 Cases As Described By Doctors In China](https://youtube.com/watch?v=Q0A0LyMru3I&)
+- [Dr. John Campbell's Youtube Channel](https://www.youtube.com/user/Campbellteaching/videos?view=0&sort=dd&flow=grid)
 
 **Disclaimer**
 
