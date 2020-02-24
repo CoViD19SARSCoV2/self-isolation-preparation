@@ -72,6 +72,7 @@ n OTC medicines (e.g., pain releivers, cough suppressant/couph drops). There may
 - [Disinfect your mobile phone](https://www.mdedge.com/infectiousdisease/article/111734/healthcare-acquired-infections/viruses-mobile-phones), perhaps as frequently as washing your hands. ([paywall free](https://outline.com/fhnUUJ))
 - Learn the "Ebola handshake" (which is an elbow bump, instead of shaking hands).  Or just greet verbally and a nod / bow / whatever lessens physical contact.
 - Avoid even getting near public bathrooms.  SARS-COV-2 (the virus that causes COVID-19) is found in feces of an infected person.  Every flush by anyone infected creates a risk of contamination to you.
+- Drinking alcohol can weaken your body's immune system.
 
 **Additional resources**
 
