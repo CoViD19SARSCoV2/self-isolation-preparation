@@ -75,6 +75,7 @@ n OTC medicines (e.g., pain releivers, cough suppressant/couph drops). There may
 - Avoid even getting near public bathrooms.  SARS-COV-2 (the virus that causes COVID-19) is found in feces of an infected person.  Every flush by anyone infected creates a risk of contamination to you.  And even if you wash your hands then close the faucet, you likely just contaminated your fingers again. Understand the [fecal-oral route](https://en.wikipedia.org/wiki/Fecal%E2%80%93oral_route)s of transmission.
 - Drinking alcohol can weaken your body's immune system.
 - Get to know your neighbors, if you don't already.
+- Stay informed!: [TODO: Enter links here for CDC, CIDRAP, and a handful of other sites]. Some online media is hidden behind a paywall. Pasting the URL into [Outline.com](https://Outline.com) is one fo the many [ways to bypass paywalls](https://www.online-tech-tips.com/computer-tips/12-ways-to-get-past-a-paywall). 
 
 **Additional resources**
 
