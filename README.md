@@ -87,3 +87,5 @@ I am not a medical professional.  This is simply the observations of an individu
 Last updated, 23 Feb 2020
 
 The author of this document also contributes content at: [@CoViD19SARSCoV2](https://twitter.com/CoViD19SARSCoV2)
+
+This document licensed under Creative Commons Zero v1.0 Universal.
