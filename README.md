@@ -15,9 +15,9 @@ While the CDC does not yet recommend the general public have [personal protectiv
 
 There are numerous brands and models of [Filtering Facepiece Respirators](https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/n95list1.html) (FFRs).  The FFR specifications will vary based on the performance characteristics for the [country's rating method](https://multimedia.3m.com/mws/media/1791500O/comparison-ffp2-kn95-n95-filtering-facepiece-respirator-classes-tb.pdf).  U.S., and European rating levels include:
 
-- P2 FFP protection: U.S.: NIOSH N95 / R95 / P95, or European: FFP2 (which is slightly less protection than N95)
-- P3 FFP protection: U.S.: NIOSH N99, or N100, or European: FFP3 (which is slightly less protection than N100)
-- Surgical mask: [Different from FFP](https://www.cdc.gov/niosh/npptl/pdfs/UnderstandDifferenceInfographic-508.pdf), a surgical mask does NOT provide the wearer with a reliable level of protection from inhaling smaller airborne particles and is not considered respiratory protection. A surgical mask will lessen the risk of you spreading the virus to others, if you are infected.
+- P2 FFP protection: U.S.: NIOSH [N95](https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/n95list1.html) / [R95](https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/r95list1.html) / [P95](https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/p95list1.html) and [Surgical N95](https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/respsource3surgicaln95.html), or European: FFP2 (which is slightly less protection than N95)
+- P3 FFP protection: U.S.: NIOSH [N99](https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/n99list1.html) / [P99](https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/p99list1.html), or [N100](https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/n100list1.html) / [P100](https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/p100list1.html), or European: FFP3 (which is slightly less protection than N100)
+- Surgical mask: [Different from FFP](https://www.cdc.gov/niosh/npptl/pdfs/UnderstandingDifference3-508.pdf), a surgical mask does NOT provide the wearer with a reliable level of protection from inhaling smaller airborne particles and is not considered respiratory protection. A surgical mask will lessen the risk of you spreading the virus to others, if you are infected.
 
 An exhalation valve will let you breathe easier and keep your mask from getting wet sooner.
 
