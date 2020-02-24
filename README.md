@@ -27,7 +27,7 @@ Eye protection: Since the virus can, allegedly, enter through mucus tissue), Flu
 
 Plastic gloves: Yes.  [TODO: Add example, ... disposable, latex-free, protective gloves.  Also referred to as nitrile exam gloves.]
 
-Disposable masks are not meant to be re-used. There aren't enough masks for everyone to use and dispose of, so sanitizing the resporator masks (e.g., heat to 150 degrees farhenheit (66 degrees celcius) has been a method to cope by those in the affected areas.  [TODO: The masks with a plastic exhilation valve will melt or otherwise render the mask ineffective at some temperature. Not sure if they can be disinfected with heat yet remain usable.]
+Disposable masks are not meant to be re-used. There aren't enough masks for everyone to use and dispose of, so sanitizing the resporator masks (e.g., heat to 150 degrees farhenheit, or 66 degrees celcius, has been a method to cope by those in the affected areas.  [TODO: The masks with a plastic exhilation valve will melt or otherwise render the mask ineffective at some temperature. Not sure if they can be disinfected with heat yet remain usable.]
 
 **Supplies**
 
