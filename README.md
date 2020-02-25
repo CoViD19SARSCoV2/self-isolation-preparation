@@ -19,7 +19,7 @@ There are numerous brands and models of [Filtering Facepiece Respirators](https:
 - P3 FFP protection: U.S.: NIOSH [N99](https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/n99list1.html) / [P99](https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/p99list1.html), or [N100](https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/n100list1.html) / [P100](https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/p100list1.html), or European: FFP3 (which is slightly less protection than N100)
 - Surgical mask: [Different from FFP](https://www.cdc.gov/niosh/npptl/pdfs/UnderstandingDifference3-508.pdf), a surgical mask does NOT provide the wearer with a reliable level of protection from inhaling smaller airborne particles and is not considered respiratory protection. A surgical mask will lessen the risk of you spreading the virus to others, if you are infected.
 
-An exhalation valve will let you breathe easier and keep your mask from getting wet sooner.
+An exhalation valve will let you breathe easier and keep your mask from getting wet sooner.  A person who is sick with symptoms consistent with COVID-19 should use a mask without an exhalation valve to lessen the spread of the virus to others.
 
 There is quite a [variety of PPE](https://www.cdc.gov/niosh/npptl/RespiratorInfographics.html) (personal protective equipment), mostly used by medical workers.
 
