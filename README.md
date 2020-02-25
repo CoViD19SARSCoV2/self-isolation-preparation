@@ -79,7 +79,8 @@ n OTC medicines (e.g., pain releivers, cough suppressant/couph drops). There may
 
 **Additional resources**
 
-- [Pandemic] page on U.S. Dept. of Homeland Security's Ready.gov wesite
+- [Pandemic] page on U.S. Dept. of Homeland Security's Ready.gov website
+- [Get Your Household Ready for Pandemic Flu](https://www.cdc.gov/nonpharmaceutical-interventions/pdf/gr-pan-flu-ind-house.pdf)
 - [What to buy to protect yourself against the coronavirus](https://theprepared.com/wuhan-coronavirus/#protect), and [Shelter-in-place medical supplies for Wuhan coronavirus](https://theprepared.com/kits/ea5e24ab)
 - [Comprehensive Prep List](https://flutrackers.com/forum/forum/personal-family-professional-emergency-preparedness/13815-comprehensive-prep-list-for-one-adult-30-days)
 - [Pandemic Flu Home Care: A Detailed Guide for Caring for the Ill at Home](https://www.amazon.com/Pandemic-Flu-Home-Care-Illustrated/dp/149041715X)
