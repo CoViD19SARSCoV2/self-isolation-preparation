@@ -68,7 +68,7 @@ n OTC medicines (e.g., pain releivers, cough suppressant/couph drops). There may
 
 **Tips**
 
-- Wash your hands often.  Using hand sanitizer even after washing might help.
+- [Wash your hands](https://twitter.com/UNICEF/status/1232534561650855936) often.  Using hand sanitizer even after washing might help.
 - If you can find the travel-size Lysol spray, that might be useful if you are out (e.g., to spray on shopping cart handles).
 - [Disinfect your mobile phone](https://www.mdedge.com/infectiousdisease/article/111734/healthcare-acquired-infections/viruses-mobile-phones), perhaps as frequently as washing your hands. ([paywall free](https://outline.com/fhnUUJ))
 - Learn the "Ebola handshake" (which is an elbow bump, instead of shaking hands).  Or just greet verbally and a nod / bow / whatever lessens physical contact.
