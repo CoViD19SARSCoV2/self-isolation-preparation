@@ -36,11 +36,12 @@ Plan for having enough for what, ... maybe six weeks, or three months even?  Not
 - Hand Sanitizer (70% Alcohol).  Do not share your bottle, each person should have their own. A large refill can be used to re-fill the travel-sized bottles. These all will be hard to find at stores at some point.
 - Hand soap and body wash
 - Hand towels (again, do not share. each person should have their own, plus spares while others being laundered.)
-- Garbage bags
+- Kleenex/tissues, including travel sized packets to have tissue for things like [touching door handles or elevator buttons](https://youtube.com/watch?v=TpXoY_1EG8Y&t=53)
 - Paper towels (as there will be lots of surfaces needing wiping)
 - Disinfecting wipes (you might find these very useful)
-- Disinfectant: Certain chemical concoctions such as hydrogen peroxide at the proper dilution are [effective at quickly killing the virus on surfaces](https://www.sciencedirect.com/science/article/pii/S2590088920300081).  Bleach (sodium hypochlorite) at the proper dilution can work as well.  Lysol spray too.
 - Toilet tissue (In parts of Asia, this was a desparately needed commodity that the markets ran out of first)
+- Garbage bags
+- Disinfectant: Certain chemical concoctions such as hydrogen peroxide at the proper dilution are [effective at quickly killing the virus on surfaces](https://www.sciencedirect.com/science/article/pii/S2590088920300081).  Bleach (sodium hypochlorite) at the proper dilution can work as well.  Lysol spray too.
 - Laundry detergent: You'll be doing laundry frequently. Everything worn gets washed. Get some laundry detergent pods too, even if you don't normally use those.
 - Bottled water (your discretion).  Maybe some 5 gallon jugs as well, though individual sized bottle watter lessens contamination from multiple openings / closings of caps.
 - Canned and frozen food, including possibly the box milk that doesn't need refrigeration before opening.  Also dried fruits and nuts. [Recommendations for those with young kids](https://twitter.com/papers_pleas/status/1231976104480649217).  Perhaps plan for several weeks before your next visit to the market, which may or may not have supplies.
@@ -72,7 +73,7 @@ n OTC medicines (e.g., pain releivers, cough suppressant/couph drops). There may
 - If you can find the travel-size Lysol spray, that might be useful if you are out (e.g., to spray on shopping cart handles).
 - [Disinfect your mobile phone](https://www.mdedge.com/infectiousdisease/article/111734/healthcare-acquired-infections/viruses-mobile-phones), perhaps as frequently as washing your hands. ([paywall free](https://outline.com/fhnUUJ))
 - Learn the "Ebola handshake" (which is an elbow bump, instead of shaking hands).  Or just greet verbally and a nod / bow / whatever lessens physical contact.
-- Avoid even getting near public bathrooms.  SARS-COV-2 (the virus that causes COVID-19) is found in feces of an infected person.  Every flush by anyone infected creates a risk of contamination to you.  And even if you wash your hands then close the faucet, you likely just contaminated your fingers again. Understand the [fecal-oral route](https://en.wikipedia.org/wiki/Fecal%E2%80%93oral_route)s of transmission.
+- Avoid even getting near [public bathrooms](https://youtube.com/watch?v=TpXoY_1EG8Y&t=117). SARS-COV-2 (the virus that causes COVID-19) is found in feces of an infected person, as well as in urine. Every flush by anyone infected creates a risk of contamination to you.  And even if you wash your hands then close the faucet, you likely just contaminated your fingers again. Understand the [fecal-oral route](https://en.wikipedia.org/wiki/Fecal%E2%80%93oral_route)s of transmission.
 - Drinking alcohol can weaken your body's immune system.
 - Get to know your neighbors, if you don't already.
 - Stay informed!: [TODO: Enter links here for CDC, CIDRAP, and a handful of other sites]. Some online media is hidden behind a paywall. Pasting the URL into [Outline.com](https://Outline.com) is one fo the many [ways to bypass paywalls](https://www.online-tech-tips.com/computer-tips/12-ways-to-get-past-a-paywall). 
