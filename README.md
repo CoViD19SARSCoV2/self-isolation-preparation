@@ -19,7 +19,7 @@ There are numerous brands and models of [Filtering Facepiece Respirators](https:
 - P3 FFR protection: U.S.: NIOSH [N99](https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/n99list1.html) / [P99](https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/p99list1.html), or [N100](https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/n100list1.html) / [P100](https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/p100list1.html), or European: FFP3 (which is slightly less protection than N100)
 - Surgical mask: [Different from FFR](https://www.cdc.gov/niosh/npptl/pdfs/UnderstandingDifference3-508.pdf), a surgical mask does NOT provide the wearer with a reliable level of protection from inhaling smaller airborne particles and is not considered respiratory protection. A surgical mask will lessen the risk of you spreading the virus to others, if you are infected.
 
-An exhalation valve will let you breathe easier and keep your mask from getting wet sooner.  A person who is sick with symptoms consistent with COVID-19 should use a surgical mask to lessen the spread of the virus to others.  A FFR makes breathing harder, and if the FFR has an exhalation valve, that gives no protection against spreading the virus as droplets will exit the facepiece when talking, coughing, or even just when breathing.
+An exhalation valve will let you breathe easier and keep your mask from getting wet sooner.  A person who is sick with symptoms consistent with COVID-19 should use a surgical mask to lessen the spread of the virus to others.  A FFR makes breathing harder, and if the FFR has an exhalation valve, that gives no protection against an infected person from spreading the virus as droplets will exit the facepiece when talking, coughing, or even just when breathing.
 
 There is quite a [variety of PPE](https://www.cdc.gov/niosh/npptl/RespiratorInfographics.html) (personal protective equipment), mostly used by medical workers.
 
@@ -75,8 +75,9 @@ n OTC medicines (e.g., pain releivers, cough suppressant/couph drops). There may
 - Learn the "Ebola handshake" (which is an elbow bump, instead of shaking hands).  Or just greet verbally and a nod / bow / whatever lessens physical contact.
 - Avoid even getting near [public bathrooms](https://youtube.com/watch?v=TpXoY_1EG8Y&t=117). SARS-COV-2 (the virus that causes COVID-19) is found in feces of an infected person, as well as in urine. Every flush by anyone infected creates a risk of contamination to you.  And even if you wash your hands then close the faucet, you likely just contaminated your fingers again. Understand the [fecal-oral route](https://en.wikipedia.org/wiki/Fecal%E2%80%93oral_route)s of transmission.
 - Drinking alcohol can weaken your body's immune system.
-- Get to know your neighbors, if you don't already.
-- Stay informed!: [TODO: Enter links here for CDC, CIDRAP, and a handful of other sites]. Some online media is hidden behind a paywall. Pasting the URL into [Outline.com](https://Outline.com) is one fo the many [ways to bypass paywalls](https://www.online-tech-tips.com/computer-tips/12-ways-to-get-past-a-paywall). 
+- Raise the temperature in your home and increase the humidity -- both of which [may shorten the longevity of the virus](https://twitter.com/angie_rasmussen/status/1233807389062725633).
+- Get to know your neighbors, if you don't already.   Be proactive with elderly family, friends and neighbors, those with various challenges, and those who might otherwise might end up in a bad spot without help from others.
+- Stay informed!: [TODO: Enter links here for CDC, CIDRAP, and a handful of other sites]. Some online media is hidden behind a paywall. Pasting the URL into [Outline.com](https://Outline.com) is one fo the many [ways to bypass paywalls](https://www.online-tech-tips.com/computer-tips/12-ways-to-get-past-a-paywall).
 
 **Additional resources**
 
