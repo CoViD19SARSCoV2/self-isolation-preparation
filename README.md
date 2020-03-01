@@ -41,7 +41,7 @@ Plan for having enough for what, ... maybe six weeks, or three months even?  Not
 - Disinfecting wipes (you might find these very useful)
 - Toilet tissue (In parts of Asia, this was a desparately needed commodity that the markets ran out of first)
 - Garbage bags
-- Disinfectant: Certain chemical concoctions such as hydrogen peroxide at the proper dilution are [effective at quickly killing the virus on surfaces](https://www.sciencedirect.com/science/article/pii/S2590088920300081).  Bleach (sodium hypochlorite) at the proper dilution can work as well.  Lysol spray too.
+- Surface disinfectants: Certain [chemical concoctions](https://infectioncontrol.tips/wp/wp-content/uploads/2020/01/2019nCoV-Surface-Disinfection-Methods.pdf) such as hydrogen peroxide at the proper dilution are [effective at quickly killing the virus on surfaces](https://www.sciencedirect.com/science/article/pii/S2590088920300081).  Bleach (sodium hypochlorite) at the proper dilution can work as well.  Lysol spray too.
 - Laundry detergent: You'll be doing laundry frequently. Everything worn gets washed. Get some laundry detergent pods too, even if you don't normally use those.
 - Bottled water (your discretion).  Maybe some 5 gallon jugs as well, though individual sized bottle watter lessens contamination from multiple openings / closings of caps.
 - Canned and frozen food, including possibly the box milk that doesn't need refrigeration before opening.  Also dried fruits and nuts. [Recommendations for those with young kids](https://twitter.com/papers_pleas/status/1231976104480649217).  Perhaps plan for several weeks before your next visit to the market, which may or may not have supplies.
