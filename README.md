@@ -43,7 +43,7 @@ Plan for having enough for what, ... maybe six weeks, or three months even?  Not
 - Garbage bags
 - Surface disinfectants: Certain [chemical concoctions](https://infectioncontrol.tips/wp/wp-content/uploads/2020/01/2019nCoV-Surface-Disinfection-Methods.pdf) such as hydrogen peroxide at the proper dilution are [effective at quickly killing the virus on surfaces](https://www.sciencedirect.com/science/article/pii/S2590088920300081).  Bleach (sodium hypochlorite) at the proper dilution can work as well.  Lysol spray too.
 - Laundry detergent: You'll be doing laundry frequently. Everything worn gets washed. Get some laundry detergent pods too, even if you don't normally use those.
-- Bottled water.  Maybe some 5 gallon jugs as well, though individual sized bottled water lessens contamination from multiple openings / closings of caps.  Individual bottles especially useful should a member of the home fall ill, the possibly contaminated empty bottle can then be discarded.
+- Bottled water, [for various reasons](https://twitter.com/aetiology/status/1233427492742012928).  Maybe some 5 gallon jugs as well, though individual sized bottled water lessens contamination from multiple openings / closings of caps.  Individual bottles especially useful should a member of the home fall ill, the possibly contaminated empty bottle can then be discarded.
 - Canned and frozen food, including possibly the box milk that doesn't need refrigeration before opening.  Also dried fruits and nuts. [Recommendations for those with young kids](https://twitter.com/papers_pleas/status/1231976104480649217).  Perhaps plan for several weeks before your next visit to the market, which may or may not have supplies.
 - Batteries: You might will be using your TV remote, computer mouse, and other battery-powered electronics more than normal, and you don't want to go out (or send out for delivery) just for batteries.
 
@@ -94,6 +94,7 @@ n OTC medicines (e.g., pain releivers, cough suppressant/couph drops). There may
 - [Pandemic Flu Home Care: A Detailed Guide for Caring for the Ill at Home](https://www.amazon.com/Pandemic-Flu-Home-Care-Illustrated/dp/149041715X)
 - [Clarifications on N95 Masks](https://survivalblog.com/letter-clarifications-n95-masks)
 - [How to Quarantine at Home](https://www.nytimes.com/2020/02/25/magazine/home-quarantine.html)
+- [5 Things to Do](https://www.self.com/story/coronavirus-in-us)
 - [3 COVID-19 Cases As Described By Doctors In China](https://youtube.com/watch?v=Q0A0LyMru3I&)
 - [Dr. John Campbell's Youtube Channel](https://www.youtube.com/user/Campbellteaching/videos?view=0&sort=dd&flow=grid)
 
