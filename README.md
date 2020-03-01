@@ -61,8 +61,8 @@ n OTC medicines (e.g., pain releivers, cough suppressant/couph drops). There may
 - Fill your gas tank in (all) your vehicle(s).  If you drive soemtimes, or need to go somewhere distant, you don't want to be worrying about finding a gas station that is still open.
 - Space heater.  If there is aeresol transmission of the virus (which it increasingly looks like what is happening), it could spread through central air or cooling.   Having a room space heater might be a better alternative.
 - Books / games / etc.  If you are cooped up at home for weeks, you mgiht go nuts relying on Netflix and Facebook to pass the time.
-- Whisle / bell / noisemaker.  If someone is ill in your home and isolated to a room (e.g., sent home from hospital because there's no more room), that person may benefit from having a bell, whisle or other noisemaker to signal the need for assistance.
-- HEPA filter, Humidifier: HEPA filters can help to "clean" the air in a room.  Humidifiers may help lessen the duration that a [virus will last on a surface and infect others](https://en.wikipedia.org/wiki/Fomite).
+- Whistle / bell / noisemaker.  If someone is ill in your home and isolated to a room (e.g., sent home from hospital because there's no more room), that person may benefit from having a bell, whisle or other noisemaker to signal the need for assistance.
+- HEPA filter, Humidifier: HEPuniqA filters can help to "clean" the air in a room.  Humidifiers may help lessen the duration that a [virus will last on a surface and infect others](https://en.wikipedia.org/wiki/Fomite).
 - Rack for deliveries: You may receive things you need via delivery. Have a plan so that you do not need to open the door to receive the item.  This may include a doorbell camera/speaker (e.g., Ring) as well, for instance.  [TODO: Items brought in from the outside present a higher risk of exposure.]
 - Go bag: You may head to the hospital and end up in quarantine for weeks.  Have a bag with clothes, toiletries, other items ready to go with you.
 - ID renewal: If your ID, subscriptions, etc. expire in the next months, might as well get that renewed early.
