@@ -2,8 +2,6 @@
 
 Preparation recommendations for [social distancing](https://en.wikipedia.org/wiki/Social_distancing) / isolation in preparation for [CoViD19 Pandemic](https://www.abundance.org/coronavirus-faqs-by-dr-megan-murray-harvard-infectious-disease-specialist)
 
-The following are notes composed quickly to provide a recommendation to some friends and family.  Thought it might be useful to share.
-
 Social distancing will [help to protect the community from the spread of SARS-COV-2 (virus)](http://www.cidrap.umn.edu/sites/default/files/public/php/185/185_factsheet_social_distancing.pdf) and from getting COVID-19 (disease).  Isolating yourself at home (retreating to safety, like a turtle in its shell) may be easier said than done, but preparing well will lessen the risk of exposure (or amount of exposure) from having to leave your home to get supplies or for whater reason.
 
 **Masks, Goggles and Gloves**
@@ -100,7 +98,7 @@ n OTC medicines (e.g., pain releivers, cough suppressant/couph drops). There may
 
 **Disclaimer**
 
-I am not a medical professional.  This is simply the observations of an individual with the intent to help. Some content was obtained from various sources, including [@VirusWhisperer's Tweets](https://twitter.com/VirusWhisperer/status/1231317513067208704).  Create a [github](https://github.com/CoViD19SARSCoV2/self-isolation-preparation) Issue or submit a Pull Request with anything that may help to improve this document.  Suggestions can be made [via e-mail](mailto:CoViD19SARSCoV2@gmail.com) as well.
+I am not a medical professional.  This is information collected from a variety of sources, including [@VirusWhisperer's Tweets](https://twitter.com/VirusWhisperer/status/1231317513067208704).  Create a [github](https://github.com/CoViD19SARSCoV2/self-isolation-preparation) Issue or submit a Pull Request with anything that may help to improve this document.  Suggestions can be made [via e-mail](mailto:CoViD19SARSCoV2@gmail.com) as well.
 
 Last updated, 3 Mar 2020
 
