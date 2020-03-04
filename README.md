@@ -34,7 +34,7 @@ Disposable masks are not meant to be re-used. There aren't enough masks (yet) fo
 Plan for having enough for what, ... maybe six weeks, or three months even?  Not a bit of this isn't something you can use later if this ends up being a nothingburger.
 
 - Hand Sanitizer (70% Alcohol).  Do not share your bottle, each person should have their own. A large refill can be used to re-fill the travel-sized bottles. These all will be hard to find at stores at some point.
-- Hand soap and body wash
+- Hand soap and body wash.  Hand soap helps because when you [wash your hands properly](https://www.youtube.com/watch?v=1AGW3bbcb3Y), the virus gets rinsed away. An antimicrobial hand soap, such as Hibiclens antimicrobial skin liquid soap, may work to kill the virus as well.
 - Hand towels (again, do not share. each person should have their own, plus spares while others being laundered.)
 - Kleenex/tissues, including travel sized packets to have tissue for things like [touching door handles or elevator buttons](https://youtube.com/watch?v=TpXoY_1EG8Y&t=53)
 - Paper towels (as there will be lots of surfaces needing wiping)
