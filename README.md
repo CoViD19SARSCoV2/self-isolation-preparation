@@ -1,6 +1,6 @@
 # Preparations for Social Distancing / Isolation.
 
-Preparation recommendations for [social distancing](https://en.wikipedia.org/wiki/Social_distancing) / isolation in preparation for CoViD19 Pandemic
+Preparation recommendations for [social distancing](https://en.wikipedia.org/wiki/Social_distancing) / isolation in preparation for [CoViD19 Pandemic](https://www.abundance.org/coronavirus-faqs-by-dr-megan-murray-harvard-infectious-disease-specialist)
 
 The following are notes composed quickly to provide a recommendation to some friends and family.  Thought it might be useful to share.
 
