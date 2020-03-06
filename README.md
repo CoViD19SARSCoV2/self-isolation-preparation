@@ -70,7 +70,7 @@ n OTC medicines (e.g., pain releivers, cough suppressant/couph drops). There may
 
 - [Wash your hands](https://twitter.com/UNICEF/status/1232534561650855936) often.  Using hand sanitizer even after washing might help.
 - If you can find the travel-size Lysol spray, that might be useful if you are out (e.g., to spray on shopping cart handles).
-- [Disinfect your mobile phone](https://qz.com/1810508/covid-19-can-likely-live-up-to-96-hours-on-your-phone), perhaps as frequently as washing your hands.
+- [Disinfect your mobile phone](https://www.prevention.com/health/a31248367/how-to-clean-cell-phone), perhaps as frequently as washing your hands. The [virus can survive 96 hours](https://qz.com/1810508/covid-19-can-likely-live-up-to-96-hours-on-your-phone) (or longer) on many surfaces.
 - Learn the "Ebola handshake" (which is an elbow bump, instead of shaking hands).  Or just greet verbally and a nod / bow / whatever lessens physical contact.
 - Avoid even getting near [public bathrooms](https://youtube.com/watch?v=TpXoY_1EG8Y&t=117). SARS-COV-2 (the virus that causes COVID-19) is found in feces of an infected person, as well as in urine. Every flush by anyone infected creates a risk of contamination to you.  And even if you wash your hands then close the faucet, you likely just contaminated your fingers again. Understand the [fecal-oral route](https://en.wikipedia.org/wiki/Fecal%E2%80%93oral_route)s of transmission.
 - Hygiene: Watches, rings, nail coverings (fake nails), make hand washing much less effective as the virus could get trapped underneath.
