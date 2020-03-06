@@ -1,6 +1,6 @@
 # Preparations for Social Distancing / Isolation.
 
-Preparation recommendations for [social distancing](https://en.wikipedia.org/wiki/Social_distancing) / self isolation in preparation for [CoViD19 Pandemic](https://www.abundance.org/coronavirus-faqs-by-dr-megan-murray-harvard-infectious-disease-specialist)
+Preparation recommendations for [social distancing](https://en.wikipedia.org/wiki/Social_distancing) / home isolation in preparation for [CoViD19 Pandemic](https://www.abundance.org/coronavirus-faqs-by-dr-megan-murray-harvard-infectious-disease-specialist)
 
 Social distancing will [help to protect the community from the spread of SARS-COV-2 (virus)](http://www.cidrap.umn.edu/sites/default/files/public/php/185/185_factsheet_social_distancing.pdf) and from getting COVID-19 (disease).  Isolating yourself at home (retreating to safety, like a turtle in its shell) may be easier said than done, but preparing well will lessen your risk of exposure (or amount of exposure) from having to leave your home to get supplies or for whater reason.
 
