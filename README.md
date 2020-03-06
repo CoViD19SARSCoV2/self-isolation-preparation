@@ -36,7 +36,7 @@ Plan for having enough for what, ... maybe three weeks, or two months even?  All
 - Hand towels (again, do not share. each person should have their own, plus spares while others being laundered.)
 - Kleenex/tissues, including travel sized packets to have tissue for things like [touching door handles or elevator buttons](https://youtube.com/watch?v=TpXoY_1EG8Y&t=53)
 - Paper towels (as there will be lots of surfaces needing wiping)
-- Disinfecting wipes (you might find these very useful)
+- Disinfecting wipes (you might find these very useful). Caution: Do not flush disinfecting wipes down the toilet, that could really make the situation for home isolation become much worse doing that.
 - Toilet tissue (In parts of Asia, this was a desparately needed commodity that the markets ran out of first)
 - Garbage bags
 - Surface disinfectants: Certain [chemical concoctions](https://infectioncontrol.tips/wp/wp-content/uploads/2020/01/2019nCoV-Surface-Disinfection-Methods.pdf) such as hydrogen peroxide at the proper dilution are [effective at quickly killing the virus on surfaces](https://www.sciencedirect.com/science/article/pii/S2590088920300081).  Bleach (sodium hypochlorite) at the proper dilution can work as well.  Lysol spray too.  Check out this list of [EPA approved biocidal products](https://www.americanchemistry.com/Novel-Coronavirus-Fighting-Products-List.pdf).
