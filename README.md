@@ -50,7 +50,7 @@ Plan for having enough for what, ... maybe three weeks, or two months even?  All
 - Oximeter (fingertip pulse oximeter, blood oxygen saturation monitor). You might want this to monitor your "5th vital sign" and [here's how and why](https://youtube.com/watch?v=YyMiSUfZtyU).
 - Thermometer (oral). One per person, don't share.
 - Prescriptions for the next couple months.  If you get those now, you might save a trip to the doctor or pharmacist (which is where many infected people will be).
-- Vitamin tables (especially Vitamin D if not going outside)
+- Vitamin tablets (especially Vitamin D if not going outside, and Vitamin C if you are not eating fruits)
 n OTC medicines (e.g., pain releivers, cough suppressant/couph drops). There may be [negative effects though from taking medication that reduces a fever](https://www.youtube.com/watch?v=wBHyBrbU6EI) when your body is trying to fight an infection.  Same with cough drops ... they are not for suppressing symptoms that need medical attention.
 
 **Household and Other**
