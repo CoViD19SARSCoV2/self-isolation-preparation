@@ -56,8 +56,8 @@ Plan for having enough for what, ... maybe three weeks, or two months even?  All
 **Household and Other**
 
 - Solar charger for electronics (USB charger, for mobile phone, tablet).  Other chargers suitable for laptop even.  You never know what's coming.
-- Propane tanks (keep your full or get a spare).  This was suggested as being helpful in areas where there was a shortage of masks, and sanitizing of a used mask (not recommended by the medical community, but people do it) was done using the outside BBQ grill.
-- Fill your gas tank in (all) your vehicle(s).  If you drive soemtimes, or need to go somewhere distant, you don't want to be worrying about finding a gas station that is still open.
+- Propane tanks (keep yours full or get a spare).  This was suggested as being helpful in areas where there was a shortage of masks, and sanitizing of a used mask (not recommended by the medical community, but people do it) was done using the outside BBQ grill.
+- Fill your gas tank in (all) your vehicle(s).  If you drive sometimes, or need to go somewhere distant, you don't want to be worrying about finding a gas station that is still open.
 - Space heater.  If there is aeresol transmission of the virus (which it increasingly looks like what is happening), it could spread through central air or cooling.   Having a room space heater might be a better alternative.
 - Books / games / etc.  If you are cooped up at home for weeks, you mgiht go nuts relying on Netflix and Facebook to pass the time.
 - Whistle / bell / noisemaker.  If someone is ill in your home and isolated to a room (e.g., sent home from hospital because there's no more room), that person may benefit from having a bell, whisle or other noisemaker to signal the need for assistance.
