@@ -50,7 +50,7 @@ Plan for having enough for what, ... maybe three weeks, or two months even?  All
 - Oximeter (fingertip pulse oximeter, blood oxygen saturation monitor). You might want this to monitor your "5th vital sign" and [here's how and why](https://youtube.com/watch?v=YyMiSUfZtyU).
 - Thermometer (oral). One per person, don't share.
 - Prescriptions for the next couple months.  If you get those now, you might save a trip to the doctor or pharmacist (which is where many infected people will be).
-- Vitamin tablets (especially Vitamin D if not going outside, and Vitamin C if you are not eating fruits)
+- Vitamin tablets (especially Vitamin D if not going outside, and Vitamin C if you are not eating fruits, and Zinc). Here's a [prep list showing a supplements section](https://twitter.com/Barton_options/status/1233980185348911104).
 - OTC medicines (e.g., pain releivers, cough suppressant/couph drops). There may be [negative effects though from taking medication that reduces a fever](https://www.youtube.com/watch?v=wBHyBrbU6EI) when your body is trying to fight an infection.  Same with cough drops ... they are not for suppressing symptoms that need medical attention.
 
 **Household and Other**
@@ -101,7 +101,7 @@ Plan for having enough for what, ... maybe three weeks, or two months even?  All
 
 I am not a medical professional.  This is information collected from a variety of sources, including [@VirusWhisperer's Tweets](https://twitter.com/VirusWhisperer/status/1231317513067208704).  Create a [github](https://github.com/CoViD19SARSCoV2/self-isolation-preparation) Issue or submit a Pull Request with anything that may help to improve this document.  Suggestions can be made [via e-mail](mailto:CoViD19SARSCoV2@gmail.com) as well.
 
-Last updated, 6 Mar 2020
+Last updated, 7 Mar 2020
 
 The author of this document also contributes content at: [@CoViD19SARSCoV2](https://twitter.com/CoViD19SARSCoV2)
 
