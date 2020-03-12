@@ -82,7 +82,7 @@ Plan for having enough for what, ... maybe three weeks, or two months even?  All
 
 **Additional resources**
 
-- [DHS: Pandemic] page on U.S. Dept. of Homeland Security's Ready.gov website
+- [DHS: Pandemic](https://www.ready.gov/pandemic) page on U.S. Dept. of Homeland Security's Ready.gov website
 - [CDC: Get Your Household Ready for Pandemic Flu](https://www.cdc.gov/nonpharmaceutical-interventions/pdf/gr-pan-flu-ind-house.pdf)
 - [WHO: Getting your workplace ready for COVID-19](https://www.who.int/docs/default-source/coronaviruse/getting-workplace-ready-for-covid-19.pdf)
 - [WHO: Coronavirus disease (COVID-19) advice for the public](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
