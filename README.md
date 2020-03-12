@@ -86,6 +86,7 @@ Plan for having enough for what, ... maybe three weeks, or two months even?  All
 - [CDC: Get Your Household Ready for Pandemic Flu](https://www.cdc.gov/nonpharmaceutical-interventions/pdf/gr-pan-flu-ind-house.pdf)
 - [WHO: Getting your workplace ready for COVID-19](https://www.who.int/docs/default-source/coronaviruse/getting-workplace-ready-for-covid-19.pdf)
 - [WHO: Coronavirus disease (COVID-19) advice for the public](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
+- [Coronavirus vs. Influenza (the flu)](https://www.linkedin.com/pulse/coronavirus-vs-influenza-flu-ken-standfield)
 - [What to buy to protect yourself against the coronavirus](https://theprepared.com/wuhan-coronavirus/#protect), and [Shelter-in-place medical supplies for Wuhan coronavirus](https://theprepared.com/kits/ea5e24ab)
 - [Pandemic supplies for your home](https://www.zerohedge.com/geopolitical/grim-reality-about-pandemics-they-dont-want-you-know-no-country-prepared)
 - [Comprehensive Prep List](https://flutrackers.com/forum/forum/personal-family-professional-emergency-preparedness/13815-comprehensive-prep-list-for-one-adult-30-days)
