@@ -80,6 +80,7 @@ Plan for having enough for what, ... maybe three weeks, or two months even?  All
 - Raise the temperature in your home and increase the humidity -- both of which [may shorten the longevity of the virus](https://twitter.com/angie_rasmussen/status/1233807389062725633) in air or on surfaces.
 - Open your windows (if outdoor air temperature is high enough), and [avoid stuffy rooms where there are other people](https://twitter.com/Don_Milton/status/1233946561744429056).  If driving, [don't use the setting for recirculated air](https://twitter.com/Don_Milton/status/1233611245753901056).
 - Get to know your neighbors, or touch base if you already know them. Be proactive with elderly family, friends and neighbors, those with various challenges, and those who might otherwise might end up in a bad spot without help from others.
+- Don't remain idle. Nearly everybody in the entire world will be negatively impacted by this. Perhaps something you do during this period will improve your situation after it passes, or could help the numerous others who will be in need.
 - Stay informed!: [TODO: Enter links here for CDC, CIDRAP, and a handful of other sites]. Some online media is hidden behind a paywall. Pasting the URL into [Outline.com](https://Outline.com) is one fo the many [ways to bypass paywalls](https://www.online-tech-tips.com/computer-tips/12-ways-to-get-past-a-paywall).
 
 **Additional resources**
