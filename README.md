@@ -65,6 +65,7 @@ Plan for having enough for what, ... maybe three weeks, or two months even?  All
 - Rack for deliveries: You may receive things you need via delivery. Have a plan so that you do not need to open the door to receive the item.  This may include a doorbell camera/speaker (e.g., Ring) as well, for instance.  [TODO: Items brought in from the outside present a higher risk of exposure.]
 - Go bag: You may suddenly need to head to the hospital and then end up being either admitted, or stuck in quarantine for weeks.  Have a bag with clothes, toiletries, other items ready to go with you.  There is also a go-bag for survival purposes (e.g., to survive short-term, such as 72 hours, without shelter), that may instead be referred to as a [bug-out bag](https://en.wikipedia.org/wiki/Bug-out_bag).
 - ID renewal: If your ID, subscriptions, etc. expire in the next months, might as well get that renewed early.
+- Cash/Financial: You will likely want to (or need to) order online for additional supplies. Try to ensure sufficient funds are available in your bank account or whatever method you use to pay online (e.g., PayPal, etc.)  Additionally, having a higher than normal stash of cash at home may become useful -- especially to pay a deliver driver or neighbor.
 
 **Tips**
 
@@ -75,6 +76,7 @@ Plan for having enough for what, ... maybe three weeks, or two months even?  All
 - Avoid even getting near [public bathrooms](https://youtube.com/watch?v=TpXoY_1EG8Y&t=117). SARS-COV-2 (the virus that causes COVID-19) is found in feces of an infected person, as well as in urine. Every flush by anyone infected creates a risk of contamination to you.  And even if you wash your hands and then press the lever or turn the knob to shut off the faucet, you likely just contaminated your fingers again. Understand the [fecal-oral route](https://en.wikipedia.org/wiki/Fecal%E2%80%93oral_route)s of transmission.
 - Hygiene: Watches, rings, and nail coverings (fake nails) make hand washing much less effective as the virus could get trapped underneath.
 - Drinking alcohol can weaken your body's immune system.
+- Cash can carry the virus. If you are paying cash and getting change, carry a sandwich size ziploc bag and have the cashier put the cash and change in that bag -- which will let you carry it home safely where you can then disinfect it (using heat and time, or whatever method is deemed sufficient).
 - Raise the temperature in your home and increase the humidity -- both of which [may shorten the longevity of the virus](https://twitter.com/angie_rasmussen/status/1233807389062725633) in air or on surfaces.
 - Open your windows (if outdoor air temperature is high enough), and [avoid stuffy rooms where there are other people](https://twitter.com/Don_Milton/status/1233946561744429056).  If driving, [don't use the setting for recirculated air](https://twitter.com/Don_Milton/status/1233611245753901056).
 - Get to know your neighbors, or touch base if you already know them. Be proactive with elderly family, friends and neighbors, those with various challenges, and those who might otherwise might end up in a bad spot without help from others.
